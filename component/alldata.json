@@ -1,0 +1,129 @@
+[
+    {
+      "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+      "name": "Alice Johnson",
+      "type": "developer",
+      "followers": 1200,
+      "on_request": true
+    },
+    {
+      "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+      "name": "Bob Smith",
+      "type": "designer",
+      "followers": 800,
+      "on_request": false
+    },
+    {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+        "name": "Alice Johnson",
+        "type": "developer",
+        "followers": 1200,
+        "on_request": true
+      },
+      {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+        "name": "Bob Smith",
+        "type": "designer",
+        "followers": 800,
+        "on_request": false
+      },
+      {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+        "name": "Alice Johnson",
+        "type": "developer",
+        "followers": 1200,
+        "on_request": true
+      },
+      {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+        "name": "Bob Smith",
+        "type": "designer",
+        "followers": 800,
+        "on_request": false
+      },
+      {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+        "name": "Alice Johnson",
+        "type": "developer",
+        "followers": 1200,
+        "on_request": true
+      },
+      {
+        "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+        "name": "Bob Smith",
+        "type": "designer",
+        "followers": 800,
+        "on_request": false
+      },
+      {
+          "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+          "name": "Alice Johnson",
+          "type": "developer",
+          "followers": 1200,
+          "on_request": true
+        },
+        {
+          "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+          "name": "Bob Smith",
+          "type": "designer",
+          "followers": 800,
+          "on_request": false
+        },
+        {
+          "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+          "name": "Alice Johnson",
+          "type": "developer",
+          "followers": 1200,
+          "on_request": true
+        },
+        {
+          "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+          "name": "Bob Smith",
+          "type": "designer",
+          "followers": 800,
+          "on_request": false
+        },
+        {
+            "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+            "name": "Alice Johnson",
+            "type": "developer",
+            "followers": 1200,
+            "on_request": true
+          },
+          {
+            "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+            "name": "Bob Smith",
+            "type": "designer",
+            "followers": 800,
+            "on_request": false
+          },
+          {
+              "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+              "name": "Alice Johnson",
+              "type": "developer",
+              "followers": 1200,
+              "on_request": true
+            },
+            {
+              "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+              "name": "Bob Smith",
+              "type": "designer",
+              "followers": 800,
+              "on_request": false
+            },
+            {
+              "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Ganesh%20Vanare%20%28haram_khor%29.png",
+              "name": "Alice Johnson",
+              "type": "developer",
+              "followers": 1200,
+              "on_request": true
+            },
+            {
+              "img": "https://the-media-ant.mo.cloudinary.net/uploads/mediaLogos/2020-8-10/Barkha%20Singh%28barkhasingh0308%29.png",
+              "name": "Bob Smith",
+              "type": "designer",
+              "followers": 800,
+              "on_request": false
+            }
+  ]
+  
