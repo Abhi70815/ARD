@@ -79,7 +79,8 @@
     gap: 10px;
   }
   .list{
-    width: 150px;
+    width: 130px;
+    height: 200px;
   }
   .list p{
     font-size:10px
