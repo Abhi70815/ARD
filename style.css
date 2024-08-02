@@ -435,7 +435,7 @@ a{
 
 @media (max-width:650px){
   .hero{
-    height: 40vh;
+    height: 50vh;
   }
   .hero.massege {
     max-width: 350px;
