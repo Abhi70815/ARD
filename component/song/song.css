@@ -72,7 +72,7 @@
     background-color: aqua;
 }
 
-@media(max-width:610px){
+@media(max-width:650px){
   .songArt{
     /* align-items: center; */
     justify-content: center;

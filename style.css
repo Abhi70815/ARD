@@ -433,7 +433,7 @@ a{
 }
 }
 
-@media (max-width:620px){
+@media (max-width:650px){
   .hero{
     height: 40vh;
   }
