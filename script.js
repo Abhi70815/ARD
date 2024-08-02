@@ -57,3 +57,56 @@ let livePerform=document.getElementById('livePerform');
 livePerform.addEventListener('click',()=>{
     document.location.href="./component/song/song.html";
 })
+
+fetch('/component/ques.json')
+.then((res)=>res.json())
+.then((data)=>{
+  console.log(data)
+  displayQuiz(data);
+})
+
+function displayQuiz(data) {
+  const questionContainer = document.querySelector('.question');
+  questionContainer.innerHTML = '';
+
+  data.forEach((element, index) => {
+    const questionDiv = document.createElement('div');
+    questionDiv.className = 'quesData';
+    questionDiv.innerHTML = `
+      <div class="ques" id="id${index}">
+        <h2>${element.ques}</h2>
+        <i class="fas fa-plus-circle"></i>
+      </div>
+      <p class="ans">${element.ans}</p>
+    `;
+    questionContainer.appendChild(questionDiv);
+
+    // Add event listener to question
+    questionDiv.querySelector('.ques').addEventListener('click', toggleAnswer);
+  });
+}
+
+function toggleAnswer(event) {
+  const questionDiv = event.target.closest('.quesData');
+  const answer = questionDiv.querySelector('.ans');
+
+  if (answer.style.display === 'block') {
+    answer.style.display = 'none';
+    questionDiv.style.backgroundColor = 'transparent';
+  } else {
+    answer.style.display = 'block';
+    questionDiv.style.backgroundColor = '#03a8f41f';
+  }
+}
+
+let msg="Hi%20sir%20I%20want%20to%20know%20how%20can%20you%20grow%20my%20bussiness";
+
+   document.querySelector('.hero .btn').addEventListener('click',()=>{
+    document.location.href=`https://wa.me/917081583323?text=${msg}`;
+   });
+
+  //  let msg2="Hi%20sir%20I%20want%20to%20know%20more%20about%20advertisement.";
+
+  //  let banner1=document.querySelector('.banner .btn');
+  //   banner1.href=`https://wa.me/917081583323?text=${msg2}`;
+   

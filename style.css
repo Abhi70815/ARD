@@ -224,7 +224,7 @@ margin: auto;
 }
 .categories{
   width: 100vw;
-  height: 40vw;
+  height: 50vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -343,6 +343,35 @@ a{
   margin-bottom: 130px;
 }
 
+.question{
+  width: 80vw;
+  margin: auto;
+  margin-bottom: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* background-color: #03a8f41f; */
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.quizData{
+  cursor: pointer;
+}
+.quesData{
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+
+}
+ .ques{
+  display: flex;
+  justify-content: space-between;
+ }
+ .ques i{
+  font-size: 24px;
+ }
+.ans{
+  display: none;
+}
 @media(max-width: 910px) {
   .hero.massege {
     max-width: 500px;
@@ -432,6 +461,7 @@ a{
   height: 220px;
   gap: 8px;
   width: 90vw;
+  justify-content: center;
 }
 .media_cards{
   width: 250px;
@@ -472,6 +502,15 @@ font-size: 18px;
 }
 .banner2 .btn{
   font-size: 11px;
+}
+.ques h2{
+  font-size: 15px;
+}
+.ques i{
+  font-size: 15px;
+}
+.ans{
+  font-size: 10px;
 }
 }
 
@@ -540,4 +579,5 @@ font-size: 18px;
   height: 25%;
 }
 }
+
 

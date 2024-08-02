@@ -71,3 +71,17 @@
     border-radius: 10px;
     background-color: aqua;
 }
+
+@media(max-width:610px){
+  .songArt{
+    /* align-items: center; */
+    justify-content: center;
+    gap: 10px;
+  }
+  .list{
+    width: 150px;
+  }
+  .list p{
+    font-size:10px
+  }
+}
